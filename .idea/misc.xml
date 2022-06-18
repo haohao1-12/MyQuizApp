@@ -3,7 +3,17 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/File/AndroidStudioProjects/MyQuizApp/app/src/main/res/drawable-v24/correct_option_border_bg.xml" value="0.1025" />
+        <entry key="..\:/File/AndroidStudioProjects/MyQuizApp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2385" />
+        <entry key="..\:/File/AndroidStudioProjects/MyQuizApp/app/src/main/res/drawable-v24/wrong_option_border_bg.xml" value="0.1025" />
+        <entry key="..\:/File/AndroidStudioProjects/MyQuizApp/app/src/main/res/drawable/correct_option_border_bg.xml" value="0.1" />
+        <entry key="..\:/File/AndroidStudioProjects/MyQuizApp/app/src/main/res/drawable/default_option_border_bg.xml" value="0.1525" />
+        <entry key="..\:/File/AndroidStudioProjects/MyQuizApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2385" />
+        <entry key="..\:/File/AndroidStudioProjects/MyQuizApp/app/src/main/res/drawable/selected_option_border_bg.xml" value="0.1025" />
+        <entry key="..\:/File/AndroidStudioProjects/MyQuizApp/app/src/main/res/drawable/wrong_option_border_bg.xml" value="0.1" />
         <entry key="..\:/File/AndroidStudioProjects/MyQuizApp/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/File/AndroidStudioProjects/MyQuizApp/app/src/main/res/layout/activity_quiz_questions.xml" value="0.12142542894852618" />
+        <entry key="..\:/File/AndroidStudioProjects/MyQuizApp/app/src/main/res/layout/activity_result.xml" value="0.1" />
       </map>
     </option>
   </component>
